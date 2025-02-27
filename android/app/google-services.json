@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119597194009",
+    "project_id": "polmitra-442b4",
+    "storage_bucket": "polmitra-442b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119597194009:android:b0eb5c8369d9c03e5a4388",
+        "android_client_info": {
+          "package_name": "com.polmitra.polmitra_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8e9BdngTfcvlVd6o_MMkGUfnDO_w3Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119597194009:android:ac4763df8a2a9df25a4388",
+        "android_client_info": {
+          "package_name": "com.polmitra.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8e9BdngTfcvlVd6o_MMkGUfnDO_w3Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
