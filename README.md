@@ -1,18 +1,19 @@
-# polmitra_admin
+# PolMitra 📱🔥  
 
-Polmitra Admin Application
+PolMitra is a powerful Flutter and Firebase-based platform designed to streamline political management. It consists of two apps:  
 
-## Getting Started
+- **PolMitra Admin** 🏛️ – For politicians and their teams to manage activities, polls, and attendance.  
+- **PolMitra User** 🗳️ – For karyakartas (workers) to engage in events, participate in polls, and stay updated.  
 
-This project is a starting point for a Flutter application.
+## Features 🚀  
+✅ **Karyakarta Management** – Add, track, and engage political workers.  
+✅ **Polls & Surveys** – Create and analyze opinion polls.  
+✅ **Event Attendance** – Track worker participation in political events.  
+✅ **Notifications** – Send real-time updates to users.  
+✅ **Data Analytics** – Gain insights into engagement and responses.  
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack 🛠️  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase (Firestore, Authentication, Cloud Functions)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# polmitra-admin" 
-"# polmitra-admin" 
